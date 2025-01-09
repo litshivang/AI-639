@@ -33,54 +33,38 @@ o	Ensured robust error handling and logging across all stages.
 
  1. Clone the Repository
 
-git clone <https://github.com/litshivang/AI-639.git>
-cd AI-639
+- git clone <https://github.com/litshivang/AI-639.git>
+- cd AI-639
 
 
  2. Create a Virtual Environment
 
-python -m venv venv
-source venv/bin/activate  
+- python -m venv venv
+- source venv/bin/activate  
 
 
  3. Install Dependencies
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 
  4. Add API Key
-Set your OpenAI API key in config/config.json:
-
- api_key=xyz 
+- Set your OpenAI API key in config/config.json:
+- api_key=xyz 
 
 
 ⚙️ Usage
 
 #Run the Solution
 
-python run.py data/input/sample.pdf  
+- python run.py data/input/sample.pdf  
 
 #Outputs are saved in the `data/output` directory.
 
 🧪 Testing
 Run all tests using `unittest`:
 
-python -m unittest discover tests
-
-
-📂 Project Structure
-
-insurance_loss_run_processor/
-├── config/              # Configuration files
-├── data/                # Input and output files
-│   ├── input/           # Sample PDFs
-│   ├── output/          # Generated JSON, Markdown, and reports
-├── src/                 # Source code modules
-├── tests/               # Test scripts
-├── logs/                # Logs for debugging
-├── run.py               # Main entry point
-├── requirements.txt     # Dependencies
-└── README.md            # Documentation
+- python -m unittest discover tests
 
 
 📊 Extensibility
