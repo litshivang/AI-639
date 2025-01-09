@@ -1,0 +1,27 @@
+insurance_loss_run_processor/
+│
+├── config/              # Configuration files
+│   ├── config.json      # API keys, paths, settings
+│   ├── logging.conf     # Logging configuration
+│
+├── data/                # Sample PDF files
+│   ├── input/           # Input PDF files
+│   ├── output/          # Processed JSON and Markdown files
+│
+├── src/                 # Source code
+│   ├── pdf_parser.py    # Extract text and layout from PDFs
+│   ├── data_processor.py# Process data using OpenAI API
+│   ├── transformer.py   # Structure data into JSON/Markdown
+│   ├── analytics.py     # Generate insights and analytics
+│   ├── cost_tracker.py  # Track OpenAI API costs
+│   ├── output_manager.py# Manage output storage
+│
+├── tests/               # Unit and integration tests
+│
+├── logs/                # Log files for debugging
+│
+├── run.py               # Main entry point
+│
+├── requirements.txt     # Project dependencies
+│
+└── README.md            # Project documentation

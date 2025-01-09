@@ -1,0 +1,8 @@
+{
+    "prompt_tokens": 500,
+    "completion_tokens": 1500,
+    "total_tokens": 2000,
+    "prompt_cost": 0.015,
+    "completion_cost": 0.09,
+    "total_cost": 0.105
+}

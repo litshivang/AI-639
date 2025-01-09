@@ -1,0 +1,126 @@
+{
+    "policy_number": "LTCM-789234-01",
+    "insured_name": "Mountain Valley Transport LLC",
+    "losses": [
+        {
+            "claim_number": "CLM-2021-0834",
+            "date_of_loss": "04/04/2021",
+            "amount": "$590.59",
+            "description": "DALLAS, TX.- AS PER CLMT: INSD DRVR MADE AN UNSAFE LANE SWITCH AND STRUCK CLMT VEH."
+        },
+        {
+            "claim_number": "CLM-2021-1018",
+            "date_of_loss": "04/28/2021",
+            "amount": "$7,078.24",
+            "description": "Rolla, MO.- INSD VEH BACKED UP TO CLMT VEH."
+        },
+        {
+            "claim_number": "CLM-2021-1508",
+            "date_of_loss": "11/04/2021",
+            "amount": "$0.00",
+            "description": "HOUSTON, TX - INSD VEH MADE A THREE LANE CHANGE AND WHILE IN THE PROCESS IT STRUCK CLMT VEH."
+        },
+        {
+            "claim_number": "CLM-2021-1509",
+            "date_of_loss": "11/04/2021",
+            "amount": "$275,000.00",
+            "description": "HOUSTON, TX - INSD VEH MADE A THREE LANE CHANGE AND WHILE IN THE PROCESS IT STRUCK CLMT VEH."
+        },
+        {
+            "claim_number": "CLM-2021-1667",
+            "date_of_loss": "11/18/2021",
+            "amount": "$0.00",
+            "description": "WEATHERFORD, TN-------INSD VEH WAS ON LOVES TRUCK STOP PARKED, SUDDENLY CLMT VEH STRUCK INSD VEH. NO MORE DETAILS PROVIDED"
+        },
+        {
+            "claim_number": "CLM-2022-0497",
+            "date_of_loss": "02/06/2022",
+            "amount": "$0.00",
+            "description": "ELOY, AZ- INSD VEH & CLMT VEH 2 WAS PARKED IN A PARKING LOT, CLMT VEH 1 WAS ATTEMPTING TO PARK WHEN CLMT VEH 1 STRUCK INSD VEH & CLMT VEH 2 ON THE RIGHT SIDE."
+        },
+        {
+            "claim_number": "CLM-2022-0498",
+            "date_of_loss": "02/06/2022",
+            "amount": "$0.00",
+            "description": "ELOY, AZ- INSD VEH & CLMT VEH 2 WAS PARKED IN A PARKING LOT, CLMT VEH 1 WAS ATTEMPTING TO PARK WHEN CLMT VEH 1 STRUCK INSD VEH & CLMT VEH 2 ON THE RIGHT SIDE."
+        },
+        {
+            "claim_number": "CLM-2022-0380",
+            "date_of_loss": "02/02/2022",
+            "amount": "$1,133.61",
+            "description": "MERKEL, TX- INSD DRVR LOST CONTROL OF VEH DUE TO ICE ON RD. INSD DRVR JACKKNIFED AND CAUSED INSD VEH TO STRIKE OVERPASS GAURD RAIL."
+        },
+        {
+            "claim_number": "CLM-2022-0424",
+            "date_of_loss": "05/18/2022",
+            "amount": "$5.50",
+            "description": "CALISDA, KS- DUE TO THE HEAVY WINDS, INSD VEH ROLLED OVER."
+        },
+        {
+            "claim_number": "CLM-2022-0425",
+            "date_of_loss": "05/18/2022",
+            "amount": "$0.00",
+            "description": "CALISDA, KS- DUE TO THE HEAVY WINDS, INSD VEH ROLLED OVER."
+        },
+        {
+            "claim_number": "CLM-2022-0426",
+            "date_of_loss": "05/18/2022",
+            "amount": "$0.00",
+            "description": "CALISDA, KS- DUE TO THE HEAVY WINDS, INSD VEH ROLLED OVER."
+        },
+        {
+            "claim_number": "CLM-2022-0427",
+            "date_of_loss": "05/18/2022",
+            "amount": "$0.00",
+            "description": "CALISDA, KS- DUE TO THE HEAVY WINDS, INSD VEH ROLLED OVER."
+        },
+        {
+            "claim_number": "CLM-2022-0919",
+            "date_of_loss": "08/06/2022",
+            "amount": "$0.00",
+            "description": ""
+        },
+        {
+            "claim_number": "CLM-2022-0964",
+            "date_of_loss": "09/07/2022",
+            "amount": "$11.50",
+            "description": "ALPINE, CA - INSD VEH WAS DRVING ON FREEWAY WHEN HE SAW CLMT DRVR MAKING SIGNS, CLMT DRVR STATED THAT INSD VEH THROW A ROCK AT CLMT VEH WINDSHIELD."
+        },
+        {
+            "claim_number": "CLM-2022-0957",
+            "date_of_loss": "10/13/2022",
+            "amount": "$5.50",
+            "description": "HEBER, CA- IV WAS DRIVING AND CV MERGED TO LANE AND IV HIT CV."
+        },
+        {
+            "claim_number": "CLM-2022-1038",
+            "date_of_loss": "10/29/2022",
+            "amount": "$37,871.57",
+            "description": "CICERO, IL - INSD VEH WAS EXITING PROPERTY AND HIT WALL."
+        },
+        {
+            "claim_number": "CLM-2022-1039",
+            "date_of_loss": "10/29/2022",
+            "amount": "$19,675.46",
+            "description": "STRATFORD, TX - INSD VEH HIT PARKED CLMT VEH"
+        },
+        {
+            "claim_number": "CLM-2022-1090",
+            "date_of_loss": "11/05/2022",
+            "amount": "$25,000.00",
+            "description": "STRATFORD, TX - INSD VEH HIT PARKED CLMT VEH"
+        },
+        {
+            "claim_number": "CLM-2022-1091",
+            "date_of_loss": "11/05/2022",
+            "amount": "$140,324.78",
+            "description": "PARSONS, KS .- INSD DRVR WAS TRAVELING ON US-400 WHILE CROSSING INTERSECTION WITH US-169, IV NOTICE CV WAS COMING AND TRIED TO SPEED TO AVOID COLLISION. CV DIDN'T STOP AND STRUCK IV TRAILER."
+        },
+        {
+            "claim_number": "CLM-2022-1212",
+            "date_of_loss": "11/08/2022",
+            "amount": "$75,000.00",
+            "description": "PARSONS, KS .- INSD DRVR WAS TRAVELING ON US-400 WHILE CROSSING INTERSECTION WITH US-169, IV NOTICE CV WAS COMING AND TRIED TO SPEED TO AVOID COLLISION. CV DIDN'T STOP AND STRUCK IV TRAILER."
+        }
+    ]
+}

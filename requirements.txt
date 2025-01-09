@@ -1,0 +1,37 @@
+# # Core Libraries
+# PyMuPDF==1.22.5       # PDF Parsing
+# pdfplumber==0.10.2    # Alternative PDF Parsing Library
+# python-dotenv==1.0.1  # Environment variable management
+
+# # AI Integration (Optional)
+# openai        # OpenAI API client
+
+# # Utility Libraries
+# pandas==2.2.0         # Data Manipulation
+# markdownify==0.11.6   # Markdown generation
+
+# camelot-py[cv]
+# ghostscript
+# pytest 
+# jsonschema
+# jinja2
+
+# transformers
+# torch
+# torchvision
+# torchaudio
+# pytesseract
+# fitz
+# pdf2image
+
+
+# # installed tesseract, poppler-24.08.0
+
+PyMuPDF==1.22.5
+openai==1.3.5
+pandas==2.1.4
+markdown==3.5
+python-dotenv==1.0.0
+
+
+
