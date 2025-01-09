@@ -156,7 +156,7 @@ o	Future-ready for deployment on cloud platforms (e.g., AWS, Azure).
 o	Detailed logs and monitoring help track the pipeline’s performance and accuracy.
 o	Alerts for anomalies ensure proactive issue resolution.
 
-#Future Improvements
+# Future Improvements
 - Integrate advanced layout parsers (e.g., Tesseract OCR for scanned PDFs).
 - Custom rules for extracting additional fields.
 - Optimise Prompt in data_processor.
