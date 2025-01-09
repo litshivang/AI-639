@@ -33,8 +33,8 @@ o	Ensured robust error handling and logging across all stages.
 
  1. Clone the Repository
 
-git clone 
-cd insurance_loss_run_processor
+git clone <https://github.com/litshivang/AI-639.git>
+cd AI-639
 
 
  2. Create a Virtual Environment
@@ -54,6 +54,20 @@ Set your OpenAI API key in config/config.json:
  api_key=xyz 
 
 
+⚙️ Usage
+
+#Run the Solution
+
+python run.py data/input/sample.pdf  
+
+#Outputs are saved in the `data/output` directory.
+
+🧪 Testing
+Run all tests using `unittest`:
+
+python -m unittest discover tests
+
+
 📂 Project Structure
 
 insurance_loss_run_processor/
@@ -67,20 +81,6 @@ insurance_loss_run_processor/
 ├── run.py               # Main entry point
 ├── requirements.txt     # Dependencies
 └── README.md            # Documentation
-
-
-⚙️ Usage
-
-#Run the Solution
-
-python run.py data/input/sample.pdf  
-
-#Outputs are saved in the `data/output` directory.
-
-🧪 Testing
-Run all tests using `unittest`:
-
-python -m unittest discover tests
 
 
 📊 Extensibility
