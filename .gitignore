@@ -5,4 +5,4 @@ venv/
 
 # Cache & Logs
 __pycache__/
-*.log
+

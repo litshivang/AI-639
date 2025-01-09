@@ -1,0 +1,176 @@
+2025-01-09 15:43:45,944 - INFO - Starting the PDF processing pipeline.
+2025-01-09 15:43:45,960 - INFO - PDFParser initialized for file: data/input/sample.pdf
+2025-01-09 15:43:45,976 - INFO - Extracted text from data/input/sample.pdf
+2025-01-09 15:43:45,976 - INFO - Extracted metadata from data/input/sample.pdf
+2025-01-09 15:43:45,976 - INFO - Successfully parsed data/input/sample.pdf
+2025-01-09 15:43:45,976 - INFO - DataProcessor initialized successfully with configurations.
+2025-01-09 15:43:45,976 - INFO - Processing chunk 1/4 with OpenAI API.
+2025-01-09 15:43:58,823 - INFO - Raw response for chunk 1: {
+  "policy_number": "LTCM-789234-01",
+  "insured_name": "Mountain Valley Transport LLC",
+  "losses": [
+    {
+      "claim_number": "CLM-2021-0834",
+      "date_of_loss": "04/04/2021",
+      "amount": "$590.59",
+      "description": "DALLAS, TX.- AS PER CLMT: INSD DRVR MADE AN UNSAFE LANE SWITCH AND STRUCK CLMT VEH."
+    },
+    {
+      "claim_number": "CLM-2021-1018",
+      "date_of_loss": "04/28/2021",
+      "amount": "$7,078.24",
+      "description": "Rolla, MO.- INSD VEH BACKED UP TO CLMT VEH."
+    },
+    {
+      "claim_number": "CLM-2021-1508",
+      "date_of_loss": "11/04/2021",
+      "amount": "$0.00",
+      "description": "HOUSTON, TX - INSD VEH MADE A THREE LANE CHANGE AND WHILE IN THE PROCESS IT STRUCK CLMT VEH."
+    },
+    {
+      "claim_number": "CLM-2021-1509",
+      "date_of_loss": "11/04/2021",
+      "amount": "$275,000.00",
+      "description": "HOUSTON, TX - INSD VEH MADE A THREE LANE CHANGE AND WHILE IN THE PROCESS IT STRUCK CLMT VEH."
+    },
+    {
+      "claim_number": "CLM-2021-1667",
+      "date_of_loss": "11/18/2021",
+      "amount": "$0.00",
+      "description": "WEATHERFORD, TN-------INSD VEH WAS ON LOVES TRUCK STOP PARKED, SUDDENLY CLMT VEH STRUCK INSD VEH. NO MORE DETAILS PROVIDED"
+    }
+  ]
+}
+2025-01-09 15:43:58,823 - INFO - API cost for chunk: $0.0673 (1121 tokens)
+2025-01-09 15:43:58,823 - INFO - Processing chunk 2/4 with OpenAI API.
+2025-01-09 15:44:15,135 - INFO - Raw response for chunk 2: {
+  "policy_number": "",
+  "insured_name": "",
+  "losses": [
+    {
+      "claim_number": "CLM-2022-0497",
+      "date_of_loss": "02/06/2022",
+      "amount": "$0.00",
+      "description": "ELOY, AZ- INSD VEH & CLMT VEH 2 WAS PARKED IN A PARKING LOT, CLMT VEH 1 WAS ATTEMPTING TO PARK WHEN CLMT VEH 1 STRUCK INSD VEH & CLMT VEH 2 ON THE RIGHT SIDE."
+    },
+    {
+      "claim_number": "CLM-2022-0498",
+      "date_of_loss": "02/06/2022",
+      "amount": "$0.00",
+      "description": "ELOY, AZ- INSD VEH & CLMT VEH 2 WAS PARKED IN A PARKING LOT, CLMT VEH 1 WAS ATTEMPTING TO PARK WHEN CLMT VEH 1 STRUCK INSD VEH & CLMT VEH 2 ON THE RIGHT SIDE."
+    },
+    {
+      "claim_number": "CLM-2022-0380",
+      "date_of_loss": "02/02/2022",
+      "amount": "$1,133.61",
+      "description": "MERKEL, TX- INSD DRVR LOST CONTROL OF VEH DUE TO ICE ON RD. INSD DRVR JACKKNIFED AND CAUSED INSD VEH TO STRIKE OVERPASS GAURD RAIL."
+    },
+    {
+      "claim_number": "CLM-2022-0424",
+      "date_of_loss": "05/18/2022",
+      "amount": "$5.50",
+      "description": "CALISDA, KS- DUE TO THE HEAVY WINDS, INSD VEH ROLLED OVER."
+    },
+    {
+      "claim_number": "CLM-2022-0425",
+      "date_of_loss": "05/18/2022",
+      "amount": "$0.00",
+      "description": "CALISDA, KS- DUE TO THE HEAVY WINDS, INSD VEH ROLLED OVER."
+    },
+    {
+      "claim_number": "CLM-2022-0426",
+      "date_of_loss": "05/18/2022",
+      "amount": "$0.00",
+      "description": "CALISDA, KS- DUE TO THE HEAVY WINDS, INSD VEH ROLLED OVER."
+    },
+    {
+      "claim_number": "CLM-2022-0427",
+      "date_of_loss": "05/18/2022",
+      "amount": "$0.00",
+      "description": "CALISDA, KS- DUE TO THE HEAVY WINDS, INSD VEH ROLLED OVER."
+    },
+    {
+      "claim_number": "CLM-2022-0919",
+      "date_of_loss": "08/06/2022",
+      "amount": "$0.00",
+      "description": ""
+    }
+  ]
+}
+2025-01-09 15:44:15,136 - INFO - API cost for chunk: $0.0882 (1470 tokens)
+2025-01-09 15:44:15,136 - INFO - Processing chunk 3/4 with OpenAI API.
+2025-01-09 15:44:31,349 - INFO - Raw response for chunk 3: {
+  "policy_number": "",
+  "insured_name": "",
+  "losses": [
+    {
+      "claim_number": "CLM-2022-0964",
+      "date_of_loss": "09/07/2022",
+      "amount": "$11.50",
+      "description": "ALPINE, CA - INSD VEH WAS DRVING ON FREEWAY WHEN HE SAW CLMT DRVR MAKING SIGNS, CLMT DRVR STATED THAT INSD VEH THROW A ROCK AT CLMT VEH WINDSHIELD."
+    },
+    {
+      "claim_number": "CLM-2022-0957",
+      "date_of_loss": "10/13/2022",
+      "amount": "$5.50",
+      "description": "HEBER, CA- IV WAS DRIVING AND CV MERGED TO LANE AND IV HIT CV."
+    },
+    {
+      "claim_number": "CLM-2022-1038",
+      "date_of_loss": "10/29/2022",
+      "amount": "$37,871.57",
+      "description": "CICERO, IL - INSD VEH WAS EXITING PROPERTY AND HIT WALL."
+    },
+    {
+      "claim_number": "CLM-2022-1039",
+      "date_of_loss": "10/29/2022",
+      "amount": "$19,675.46",
+      "description": "STRATFORD, TX - INSD VEH HIT PARKED CLMT VEH"
+    },
+    {
+      "claim_number": "CLM-2022-1090",
+      "date_of_loss": "11/05/2022",
+      "amount": "$25,000.00",
+      "description": "STRATFORD, TX - INSD VEH HIT PARKED CLMT VEH"
+    },
+    {
+      "claim_number": "CLM-2022-1091",
+      "date_of_loss": "11/05/2022",
+      "amount": "$140,324.78",
+      "description": "PARSONS, KS .- INSD DRVR WAS TRAVELING ON US-400 WHILE CROSSING INTERSECTION WITH US-169, IV NOTICE CV WAS COMING AND TRIED TO SPEED TO AVOID COLLISION. CV DIDN'T STOP AND STRUCK IV TRAILER."
+    },
+    {
+      "claim_number": "CLM-2022-1212",
+      "date_of_loss": "11/08/2022",
+      "amount": "$75,000.00",
+      "description": "PARSONS, KS .- INSD DRVR WAS TRAVELING ON US-400 WHILE CROSSING INTERSECTION WITH US-169, IV NOTICE CV WAS COMING AND TRIED TO SPEED TO AVOID COLLISION. CV DIDN'T STOP AND STRUCK IV TRAILER."
+    }
+  ]
+}
+2025-01-09 15:44:31,349 - INFO - API cost for chunk: $0.0805 (1341 tokens)
+2025-01-09 15:44:31,349 - INFO - Processing chunk 4/4 with OpenAI API.
+2025-01-09 15:44:36,438 - INFO - Raw response for chunk 4: {
+  "policy_number": "",
+  "insured_name": "Paul Roberts",
+  "losses": []
+}
+2025-01-09 15:44:36,439 - INFO - API cost for chunk: $0.0161 (268 tokens)
+2025-01-09 15:44:36,442 - INFO - Transformer initialized with output directory: data/output
+2025-01-09 15:44:36,445 - INFO - Saved JSON data to data/output\output.json
+2025-01-09 15:44:36,448 - INFO - Saved Markdown report to data/output\output.md
+2025-01-09 15:44:36,448 - INFO - Data transformation completed successfully.
+2025-01-09 15:44:36,448 - INFO - Analytics initialized with data file: data/output/output.json
+2025-01-09 15:44:36,818 - INFO - Loaded data into Pandas DataFrame.
+2025-01-09 15:44:37,026 - INFO - Generated analytics summary successfully
+2025-01-09 15:44:37,026 - INFO - Analytics pipeline completed successfully
+2025-01-09 15:44:37,026 - INFO - CostTracker initialized with output directory: data/output
+2025-01-09 15:44:37,026 - INFO - API cost calculated successfully.
+2025-01-09 15:44:37,027 - INFO - API cost data saved in JSON at data/output\api_cost_report.json
+2025-01-09 15:44:37,027 - INFO - API cost data saved in Markdown at data/output\api_cost_report.md
+2025-01-09 15:44:37,027 - INFO - Cost tracking pipeline executed successfully.
+2025-01-09 15:44:37,033 - INFO - Directory ensured: data/output\json
+2025-01-09 15:44:37,034 - INFO - Directory ensured: data/output\markdown
+2025-01-09 15:44:37,034 - INFO - Directory ensured: data/output\cost
+2025-01-09 15:44:37,034 - INFO - OutputManager initialized with base directory: data/output
+2025-01-09 15:44:37,035 - INFO - Saved markdown file at data/output\markdown\pipeline_summary_20250109_154437.md
+2025-01-09 15:44:37,035 - INFO - PDF processing pipeline completed successfully.
